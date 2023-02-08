@@ -10,8 +10,9 @@ class Dj extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        primaryColor: Colors.grey,
+        primaryColor: Colors.yellow,
         backgroundColor: Colors.grey,
+        splashColor: Colors.grey,
 
       ),
       debugShowCheckedModeBanner: false,
